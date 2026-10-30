@@ -9,11 +9,11 @@
 # BrandFullNameInternal is used for some registry and file system values
 # instead of BrandFullName and typically should not be modified.
 !define BrandFullNameInternal "Mozilla Firefox"
-!define BrandFullName         "Mozilla Firefox"
-!define CompanyName           "Mozilla Corporation"
-!define URLInfoAbout          "https://www.mozilla.org"
-!define URLUpdateInfo         "https://www.firefox.com/firefox/${AppVersion}/releasenotes"
-!define HelpLink              "https://support.mozilla.org"
+!define BrandFullName         "Shittyfox"
+!define CompanyName           "ShittyCorp"
+!define URLInfoAbout          "https://shittycorp.worldwarz.dpdns.org"
+!define URLUpdateInfo         "https://shittycorp.worldwarz.dpdns.org"
+!define HelpLink              "https://shittycorp.worldwarz.dpdns.org"
 
 ; The OFFICIAL define is a workaround to support different urls for Release and
 ; Beta since they share the same branding when building with other branches that
